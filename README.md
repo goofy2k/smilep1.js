@@ -1,5 +1,5 @@
 ## Node package to interface directly with Plugwise Smile P1 energy monitor devices (no Stretch or bridge required).
-
+###Cloned from: https://github.com/gruijter/smilep1.js.git
 ### It allows you to:
 
 #### get:
